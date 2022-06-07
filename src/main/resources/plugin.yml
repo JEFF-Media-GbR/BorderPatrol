@@ -1,0 +1,7 @@
+name: BorderPatrol
+main: com.jeff_media.borderpatrol.BorderPatrol
+version: ${project.version}
+api-version: "1.13"
+authors:
+  - mfnalex
+  - TRump

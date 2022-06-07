@@ -1,0 +1,3 @@
+message: "Teleport redirected! You were outside the worldborder."
+message-setspawn: "Spawn point for this world has been set to your current location."
+debug: false

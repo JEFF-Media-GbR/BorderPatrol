@@ -2,4 +2,4 @@ Teleports players to the world spawn when they'd be teleporting outside of the w
 
 ## Commands
 /borderpatrol setspawn
-Sets the spawn to your current location. Permission: boarderpatrol.admin
+Sets the spawn to your current location. Permission: borderpatrol.admin

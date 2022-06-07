@@ -1,5 +1,6 @@
 Teleports players to the world spawn when they'd be teleporting outside of the world border.
 
 ## Commands
-/borderpatrol setspawn
+**/borderpatrol setspawn**
+
 Sets the spawn to your current location. Permission: borderpatrol.admin
